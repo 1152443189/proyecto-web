@@ -1,0 +1,132 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+
+/*  Index  */
+@font-face {
+    font-family:"Coresanstres";
+    src: url(../Fonts/CoreSansD35Regular.otf);
+    
+}
+@font-face {
+    font-family:"Coresansseis";
+    src: url(../Fonts/CoreSansD65Heavy.otf);
+    
+}
+header{
+    background-color: rgb(253, 185, 19);
+    font-family: "coresanstres";
+    width:100%
+}
+
+.carrousell{
+    width: 100%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.Menu{
+        font-family:"Coresanstres";
+    color: rgb(16, 58, 37);
+    font-size: 30 px;
+    text-align: justify;
+}
+.boton{
+    text-decoration: none;
+    Color: white;
+      
+}
+.linkMenu{
+    display: inline;
+}
+.tabla{
+    text-align: justify;
+}
+.mensaje1{
+    font-family: "Coresanstres";
+    color: rgb(129, 129,119);
+    text-align: center;
+    font-size:20px;
+}
+.titulo{
+    font-family:"Coresanstres";
+    color: rgb(16, 58, 37);
+    font-size: 50px;
+    
+}
+.titulo2{
+    font-family:"Coresansseis";
+    color: rgb(16, 58, 37);
+    font-size: 50px;
+    font-weight: 200;
+}
+.cuadro-central{
+    font-family: "Coresanstres";
+    color: rgb(129, 129,119);
+    text-align: center;
+}
+.index1{
+    font-family: "Coresansseis";
+    text-align:center;
+    line-height: 100%;
+    
+}
+.index11{
+    font-family: "Coresanstres";
+    text-align:center;
+    line-height: 100%;
+}
+.index2{
+    font-family: "Coresansseis";
+    text-align:center;
+    line-height: 100%;
+}
+.index21{
+    font-family: "Coresanstres";
+    text-align:center;
+    line-height: 100%;
+}
+.index3{
+    font-family: "Coresansseis";
+    text-align:center;
+    line-height: 100%;
+}
+.index31{
+    font-family: "Coresanstres";
+    text-align:center;
+    line-height: 100%;
+}
+.Contacto{
+    font-family: "Coresanstres";
+    text-align:center;
+    line-height: 100%;
+}
+footer{
+    background-color: rgb(16, 58, 37);
+    font-family: "Coresanstres";
+    color:white;
+    width:100%;
+    padding-left: 0%;
+}
+.tabla-info{
+    width:100%;
+}
+.Menu1{
+    display: block;
+    font-family:"Coresanstres";
+    color: rgb(16, 58, 37);
+    font-size: 30 px;
+    text-align: justify;
+    padding: 25%;
+    width: 100%
+}
+.redes{
+    text-align: center;
+    width: 100%;
+
+}
+.info{
+    font-family: "Coresanstres";
+    color: white;
+    text-align:start;
+}
